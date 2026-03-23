@@ -85,7 +85,7 @@ PLOTLY_LAYOUT = dict(
     template="plotly_white",
     paper_bgcolor="#ffffff",
     plot_bgcolor="#ffffff",
-    font=dict(family="sans-serif", color="#111111", size=11),
+    font=dict(family="Playfair Display", color="#111111", size=11),
     margin=dict(l=50, r=30, t=40, b=50),
     xaxis=dict(
         gridcolor="#eeeeee",
