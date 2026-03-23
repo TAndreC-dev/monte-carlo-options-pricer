@@ -11,7 +11,16 @@ st.set_page_config(
     page_title="Monte Carlo Options Pricer",
     layout="wide"
 )
-
+# Custom CSS for Playfair Display font
+st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&display=swap');
+    
+    * {
+        font-family: "Playfair Display", serif !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 # Sidebar inputs
 with st.sidebar:
     st.markdown("### Parameters")
