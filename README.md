@@ -2,7 +2,7 @@
 
 A web-based European call option pricing simulator built with Python and Streamlit. Simulates 10,000+ stock price paths using Geometric Brownian Motion and benchmarks results against the Black-Scholes analytical formula in real time.
 
-**Live app:** [your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+**Live app:** [[your-app-url.streamlit.app](https://monte-carlo-options-pricer-z3cuys4da6qketarlk7u3r.streamlit.app/#monte-carlo-options-pricer)]([https://your-app-url.streamlit.app](https://monte-carlo-options-pricer-z3cuys4da6qketarlk7u3r.streamlit.app/#monte-carlo-options-pricer))
 
 ---
 
