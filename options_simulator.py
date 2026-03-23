@@ -16,8 +16,8 @@ st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&display=swap');
     
-    * {
-        font-family: "Playfair Display", serif !important;
+    h1, h2, h3, h4, h5, h6, p, div, span, label {
+        font-family: "Playfair Display", serif;
     }
     </style>
     """, unsafe_allow_html=True)
